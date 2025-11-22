@@ -3,7 +3,7 @@ Mario and Luigi Revival Game Engine Project
 ---
 
 This is an open-source Mario & Luigi RPG engine for Game Maker Studio.
-Some aspects are still buggy and will be changed later on.
+Some aspects are still buggy. You may encounter errors or even crashes at certain points.
 
 
 The engine contains:
